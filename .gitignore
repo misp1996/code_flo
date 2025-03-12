@@ -1,0 +1,12 @@
+.vscode
+florida.egg-info
+*__pycache__
+*.sch
+.pytest_cache
+dist
+example_flows
+.DS_Store
+test.json
+*.json
+examples/generating_flows_from_excel_conditions
+Check_automated_flow.*
